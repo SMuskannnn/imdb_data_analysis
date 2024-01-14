@@ -35,8 +35,8 @@ Before running the project, ensure you have the following dependencies installed
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/imdb-top-1000-analysis.git
-cd imdb-top-1000-analysis
+git clone https://github.com/yourusername/imdb_data_analysis.git
+cd imdb_data_analysis
 ```
 
 Install the required dependencies.
