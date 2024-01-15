@@ -1,4 +1,4 @@
-# IMDb Top 1000 TV Series Data Analysis
+# IMDb Top 1000 movies Data Analysis
 
 ## Overview
 
@@ -18,7 +18,7 @@ This repository contains a data analysis project focusing on the IMDb Top 1000 T
 
 ## Introduction
 
-The goal of this project is to analyze the IMDb Top 1000 TV series dataset and derive insights into various factors such as director impact on earnings, genre popularity over the years, correlation between IMDb ratings and gross earnings, and more. The project is implemented using Python and the pandas, seaborn, and matplotlib libraries for data manipulation and visualization.
+The goal of this project is to analyze the IMDb Top 1000 movies dataset and derive insights into various factors such as director impact on earnings, genre popularity over the years, correlation between IMDb ratings and gross earnings, and more. The project is implemented using Python and the pandas, seaborn, and matplotlib libraries for data manipulation and visualization.
 
 ## Prerequisites
 
